@@ -1,5 +1,5 @@
 # Secure Fund Tranfer
-Electronic Fund Transfer Platform
+Electronic Fund Transfer Platform :
 This Electronic Fund Transfer (EFT) platform is designed to provide a seamless and secure financial management experience. The platform offers an intuitive user interface for easy navigation, allowing users to check account balances, review transaction histories, and set up personalized alerts. With a focus on security, the platform uses advanced encryption and robust measures to safeguard transactions and personal information.
 
 Key Features:
